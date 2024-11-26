@@ -1,0 +1,9 @@
+com\example\nimap\controller\Product.class
+com\example\nimap\service\CategoryService.class
+com\example\nimap\SpringbootCurdProjectApplication.class
+com\example\nimap\service\ProductService.class
+com\example\nimap\entity\Product.class
+com\example\nimap\dao\CategoryInterface.class
+com\example\nimap\dao\ProductInterface.class
+com\example\nimap\controller\Category.class
+com\example\nimap\entity\Category.class
